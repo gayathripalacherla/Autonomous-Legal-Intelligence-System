@@ -1,0 +1,13 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+langchain
+langchain-community
+langgraph
+crewai
+gradio
+streamlit
+python-dotenv
+pydantic
